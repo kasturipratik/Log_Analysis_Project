@@ -30,9 +30,9 @@
  
  **How to run the program**
   
-  1.Download and install all the above listed software.
+  1. Download and install all the above listed software.
   
-  2.Locate the vagrant folder on your downloads folder
+  2. Locate the vagrant folder on your downloads folder
   
   3. Open git bash and cd into the vagrant folder where vagrantfile is located.
   
